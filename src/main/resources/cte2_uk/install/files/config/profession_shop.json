@@ -1,0 +1,282 @@
+{
+  "husbandry": [
+    {
+      "itemId": "mmorpg:material/meat/0",
+      "quantity": 8,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 2,
+      "requiredProfession": "husbandry",
+      "requiredLevel": 1,
+      "displayName": "\u0414\u0443\u0445\u043e\u0432\u043d\u0435 \u0441\u0438\u0440\u0435 \u043c'\u044f\u0441\u043e"
+    },
+    {
+      "itemId": "mmorpg:material/meat/1",
+      "quantity": 8,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 8,
+      "requiredProfession": "husbandry",
+      "requiredLevel": 20,
+      "displayName": "\u041d\u0435\u0431\u0435\u0441\u043d\u0435 \u0441\u0438\u0440\u0435 \u043c'\u044f\u0441\u043e"
+    },
+    {
+      "itemId": "mmorpg:material/meat/2",
+      "quantity": 8,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 32,
+      "requiredProfession": "husbandry",
+      "requiredLevel": 40,
+      "displayName": "\u0415\u043c\u043f\u0456\u0440\u0435\u0439\u0441\u044c\u043a\u0435 \u0441\u0438\u0440\u0435 \u043c'\u044f\u0441\u043e"
+    },
+    {
+      "itemId": "mmorpg:material/meat/3",
+      "quantity": 8,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 1,
+      "requiredProfession": "husbandry",
+      "requiredLevel": 60,
+      "displayName": "\u0410\u043d\u0433\u0435\u043b\u044c\u0441\u044c\u043a\u0435 \u0441\u0438\u0440\u0435 \u043c'\u044f\u0441\u043e"
+    },
+    {
+      "itemId": "mmorpg:material/meat/4",
+      "quantity": 8,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 8,
+      "requiredProfession": "husbandry",
+      "requiredLevel": 80,
+      "displayName": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0435 \u0441\u0438\u0440\u0435 \u043c'\u044f\u0441\u043e"
+    },
+    {
+      "itemId": "mmorpg:material/meat/5",
+      "quantity": 8,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 16,
+      "requiredProfession": "husbandry",
+      "requiredLevel": 100,
+      "displayName": "\u0411\u043e\u0433\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0435 \u0441\u0438\u0440\u0435 \u043c'\u044f\u0441\u043e"
+    }
+  ],
+  "mining": [
+    {
+      "itemId": "mmorpg:material/mining/0",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 2,
+      "requiredProfession": "mining",
+      "requiredLevel": 1,
+      "displayName": "\u0414\u0443\u0445\u043e\u0432\u043d\u0430 \u0440\u0443\u0434\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/mining/1",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 8,
+      "requiredProfession": "mining",
+      "requiredLevel": 20,
+      "displayName": "\u041d\u0435\u0431\u0435\u0441\u043d\u0430 \u0440\u0443\u0434\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/mining/2",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 32,
+      "requiredProfession": "mining",
+      "requiredLevel": 40,
+      "displayName": "\u0415\u043c\u043f\u0456\u0440\u0435\u0439\u0441\u044c\u043a\u0430 \u0440\u0443\u0434\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/mining/3",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 1,
+      "requiredProfession": "mining",
+      "requiredLevel": 60,
+      "displayName": "\u0410\u043d\u0433\u0435\u043b\u044c\u0441\u044c\u043a\u0430 \u0440\u0443\u0434\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/mining/4",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 4,
+      "requiredProfession": "mining",
+      "requiredLevel": 80,
+      "displayName": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430 \u0440\u0443\u0434\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/mining/5",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 16,
+      "requiredProfession": "mining",
+      "requiredLevel": 100,
+      "displayName": "\u0411\u043e\u0433\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0430 \u0440\u0443\u0434\u0430"
+    }
+  ],
+  "farming": [
+    {
+      "itemId": "mmorpg:material/farming/0",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 2,
+      "requiredProfession": "farming",
+      "requiredLevel": 1,
+      "displayName": "\u0414\u0443\u0445\u043e\u0432\u043d\u0438\u0439 \u0432\u0440\u043e\u0436\u0430\u0439"
+    },
+    {
+      "itemId": "mmorpg:material/farming/1",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 8,
+      "requiredProfession": "farming",
+      "requiredLevel": 20,
+      "displayName": "\u041d\u0435\u0431\u0435\u0441\u043d\u0438\u0439 \u0432\u0440\u043e\u0436\u0430\u0439"
+    },
+    {
+      "itemId": "mmorpg:material/farming/2",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 32,
+      "requiredProfession": "farming",
+      "requiredLevel": 40,
+      "displayName": "\u0415\u043c\u043f\u0456\u0440\u0435\u0439\u0441\u044c\u043a\u0438\u0439 \u0432\u0440\u043e\u0436\u0430\u0439"
+    },
+    {
+      "itemId": "mmorpg:material/farming/3",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 1,
+      "requiredProfession": "farming",
+      "requiredLevel": 60,
+      "displayName": "\u0410\u043d\u0433\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0432\u0440\u043e\u0436\u0430\u0439"
+    },
+    {
+      "itemId": "mmorpg:material/farming/4",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 4,
+      "requiredProfession": "farming",
+      "requiredLevel": 80,
+      "displayName": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u0439 \u0432\u0440\u043e\u0436\u0430\u0439"
+    },
+    {
+      "itemId": "mmorpg:material/farming/5",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 16,
+      "requiredProfession": "farming",
+      "requiredLevel": 100,
+      "displayName": "\u0411\u043e\u0433\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0438\u0439 \u0432\u0440\u043e\u0436\u0430\u0439"
+    }
+  ],
+  "fishing": [
+    {
+      "itemId": "mmorpg:material/fishing/0",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 2,
+      "requiredProfession": "fishing",
+      "requiredLevel": 1,
+      "displayName": "\u0414\u0443\u0445\u043e\u0432\u043d\u0430 \u0441\u0438\u0440\u0430 \u0440\u0438\u0431\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/fishing/1",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 8,
+      "requiredProfession": "fishing",
+      "requiredLevel": 20,
+      "displayName": "\u041d\u0435\u0431\u0435\u0441\u043d\u0430 \u0441\u0438\u0440\u0430 \u0440\u0438\u0431\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/fishing/2",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 32,
+      "requiredProfession": "fishing",
+      "requiredLevel": 40,
+      "displayName": "\u0415\u043c\u043f\u0456\u0440\u0435\u0439\u0441\u044c\u043a\u0430 \u0441\u0438\u0440\u0430 \u0440\u0438\u0431\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/fishing/3",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 1,
+      "requiredProfession": "fishing",
+      "requiredLevel": 60,
+      "displayName": "\u0410\u043d\u0433\u0435\u043b\u044c\u0441\u044c\u043a\u0430 \u0441\u0438\u0440\u0430 \u0440\u0438\u0431\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/fishing/4",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 4,
+      "requiredProfession": "fishing",
+      "requiredLevel": 80,
+      "displayName": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430 \u0441\u0438\u0440\u0430 \u0440\u0438\u0431\u0430"
+    },
+    {
+      "itemId": "mmorpg:material/fishing/5",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 16,
+      "requiredProfession": "fishing",
+      "requiredLevel": 100,
+      "displayName": "\u0411\u043e\u0433\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0430 \u0441\u0438\u0440\u0430 \u0440\u0438\u0431\u0430"
+    }
+  ],
+  "salvaging": [
+    {
+      "itemId": "mmorpg:stone/0",
+      "quantity": 21,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 1,
+      "requiredProfession": "salvaging",
+      "requiredLevel": 1,
+      "displayName": "\u0417\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439 \u043a\u0430\u043c\u0456\u043d\u044c"
+    },
+    {
+      "itemId": "mmorpg:stone/1",
+      "quantity": 20,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 8,
+      "requiredProfession": "salvaging",
+      "requiredLevel": 20,
+      "displayName": "\u041d\u0435\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439 \u043a\u0430\u043c\u0456\u043d\u044c"
+    },
+    {
+      "itemId": "mmorpg:stone/2",
+      "quantity": 9,
+      "currencyItemId": "mns_extras:bounty_slip",
+      "currencyQuantity": 32,
+      "requiredProfession": "salvaging",
+      "requiredLevel": 40,
+      "displayName": "\u0420\u0456\u0434\u043a\u0456\u0441\u043d\u0438\u0439 \u043a\u0430\u043c\u0456\u043d\u044c"
+    },
+    {
+      "itemId": "mmorpg:stone/3",
+      "quantity": 4,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 1,
+      "requiredProfession": "salvaging",
+      "requiredLevel": 60,
+      "displayName": "\u0415\u043f\u0456\u0447\u043d\u0438\u0439 \u043a\u0430\u043c\u0456\u043d\u044c"
+    },
+    {
+      "itemId": "mmorpg:stone/4",
+      "quantity": 1,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 2,
+      "requiredProfession": "salvaging",
+      "requiredLevel": 80,
+      "displayName": "\u041b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u0438\u0439 \u043a\u0430\u043c\u0456\u043d\u044c"
+    },
+    {
+      "itemId": "mmorpg:stone/5",
+      "quantity": 1,
+      "currencyItemId": "mns_extras:empowered_bounty_slip",
+      "currencyQuantity": 16,
+      "requiredProfession": "salvaging",
+      "requiredLevel": 100,
+      "displayName": "\u041c\u0456\u0444\u0456\u0447\u043d\u0438\u0439 \u043a\u0430\u043c\u0456\u043d\u044c"
+    }
+  ]
+}

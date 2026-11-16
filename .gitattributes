@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.jar binary
+*.zip binary
+*.png binary
+# Файли для встановлення перевіряються за SHA-256 — git не повинен їх змінювати
+src/main/resources/cte2_uk/install/files/** -text
+src/main/resources/cte2_uk/install/manifest.tsv text eol=lf
