@@ -106,6 +106,12 @@ ROADMAP.md                  що зроблено і що ще треба зро
 У роботі: екран статів Mine and Slash, положення підказок, компактна розкладка вікі та книг Patchouli.
 Подробиці — у [ROADMAP.md](ROADMAP.md).
 
+## Учасники
+
+- [@HolovaNazarii](https://github.com/HolovaNazarii) — переклад, автор проєкту
+
+Хочете допомогти з перекладом чи кодом — відкривайте issue або pull request.
+
 ## Ліцензія
 
 - **Код** — [MIT](LICENSE).
