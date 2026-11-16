@@ -88,4 +88,14 @@ tasks.register('installToGame', Copy) {
     dependsOn 'build'
     from jar.archiveFile
     into "${sklauncherDir}/instances/${instance_name}/mods"
+    // Не можна підміняти jar під запущеною грою: Java довантажує класи з нього пізніше й гра падає
+    // з NoClassDefFoundError. Minecraft із лаунчера працює в javaw.exe. Обійти: -PforceInstall
+    doFirst {
+        def gameRunning = ProcessHandle.allProcesses().anyMatch { p ->
+            p.info().command().map { it.toLowerCase().endsWith('javaw.exe') }.orElse(false)
+        }
+        if (gameRunning && !project.hasProperty('forceInstall')) {
+            throw new GradleException('Minecraft is running (javaw.exe). Close the game before installToGame, or pass -PforceInstall.')
+        }
+    }
 }
