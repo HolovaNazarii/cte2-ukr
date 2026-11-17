@@ -24,7 +24,7 @@ public final class Cte2Uk {
         if (FMLEnvironment.dist != Dist.CLIENT) {
             return; // мод лише клієнтський
         }
-        // Якомога раніше, щоб мовний пакет і шрифт з'явилися до першого сканування ресурспаків.
+        // Якомога раніше, щоб мовний пакет з'явився до першого сканування ресурспаків.
         GameFiles.install();
 
         context.registerConfig(ModConfig.Type.CLIENT, ClientConfig.SPEC);
