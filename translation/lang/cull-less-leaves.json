@@ -1,0 +1,10 @@
+{
+ "_comment": "Cull Less Leaves: налаштування листя.",
+ "cull-less-leaves.title": "Cull Less Leaves",
+ "cull-less-leaves.option.enabled": "Увімкнено",
+ "cull-less-leaves.option.depth": "Глибина",
+ "cull-less-leaves.option.depth.tooltip": "Скільки шарів листя видно, перш ніж внутрішнє листя відсікається.\n1 = найшвидше, але найгірший вигляд.\n2 = рекомендовано.\n4 = найповільніше, але найкращий вигляд.",
+ "cull-less-leaves.sodium.option.enabled": "Відсікати листя",
+ "cull-less-leaves.sodium.option.enabled.description": "Вмикає мод Cull Less Leaves.",
+ "cull-less-leaves.sodium.option.depth": "Глибина відсікання листя"
+}

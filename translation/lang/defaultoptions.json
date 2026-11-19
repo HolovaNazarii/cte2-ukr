@@ -1,0 +1,10 @@
+{
+ "_comment": "Default Options: налаштування для нових світів.",
+ "config.defaultoptions.title": "Default Options",
+ "config.defaultoptions.defaultDifficulty": "Типова складність",
+ "config.defaultoptions.defaultDifficulty.tooltip": "Складність, що вибирається для нових світів.",
+ "config.defaultoptions.lockDifficulty": "Заблокувати складність",
+ "config.defaultoptions.lockDifficulty.tooltip": "Увімкніть, щоб складність нових світів блокувалася на типовій. Гравці не зможуть її розблокувати без сторонніх інструментів! Мабуть, погана ідея. Не раджу. Навіщо я взагалі додав цей параметр?",
+ "config.defaultoptions.defaultResourcePacks": "Типові ресурспаки",
+ "config.defaultoptions.defaultResourcePacks.tooltip": "Ідентифікатори ресурспаків, увімкнених за замовчуванням під час першого запуску."
+}

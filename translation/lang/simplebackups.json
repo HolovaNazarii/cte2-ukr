@@ -1,0 +1,13 @@
+{
+ "_comment": "SimpleBackups: повідомлення про резервні копії світу.",
+ "simplebackups.backup_started": "Резервне копіювання почалося…",
+ "simplebackups.backup_finished": "Резервну копію створено за %s (%s | %s)",
+ "simplebackups.backup_errors": "Помилок під час резервного копіювання: %s",
+ "simplebackups.backup_failed_delete": "Не вдалося створити резервну копію (незавершений файл видаляється). Подробиці — у журналі гри",
+ "simplebackups.backup_failed_continue": "Резервне копіювання зупинилося на початку, деякі файли могли не потрапити в копію. Перевірте журнал гри, щоб не втратити дані",
+ "simplebackups.backups_paused": "Резервне копіювання призупинено",
+ "simplebackups.commands.only_modified": "Копіюються не лише змінені файли — перевірте файл налаштувань",
+ "simplebackups.commands.is_merging": "Об'єднання резервних копій уже триває",
+ "simplebackups.commands.finished": "Резервні копії успішно об'єднано",
+ "simplebackups.not_enough_space": "Замало місця на диску для резервної копії. Скасовано!"
+}

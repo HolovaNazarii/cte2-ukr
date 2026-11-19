@@ -1,0 +1,7 @@
+{
+ "_comment": "Embeddium: рядки, яких немає в ключах sodium.*.",
+ "embeddium.options.added_by_mod_string": "Додано модом: %s",
+ "embeddium.options.fullscreen.resolution.tooltip": "Роздільна здатність гри в повноекранному режимі.",
+ "embeddium.options.use_quad_normals_for_lighting.name": "Точне затінення граней",
+ "embeddium.options.use_quad_normals_for_lighting.tooltip": "Якщо ввімкнено, Embeddium затінює нестандартні (неванільні) грані блоків за їхнім справжнім напрямком, а не за найближчою віссю. Це може покращити освітлення, коли експериментальний конвеєр освітлення Forge вимкнено (так рекомендовано для найкращої продуктивності).\n\nЯкщо експериментальний конвеєр освітлення ввімкнено, параметр нічого не змінює."
+}

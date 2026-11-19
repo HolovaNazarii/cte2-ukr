@@ -63,8 +63,9 @@
 - [ ] **Діалоги мешканців Minecraft Comes Alive** — 13 характерів × 405 реплік (~500 тис. символів). Відкладено (2026-11-19);
   перекладати по одному характеру, зберігаючи стиль реплік (заїкання, інтонацію).
 - [x] **Chipped** — 7 258 назв у форматі «Матеріал — опис», генерує `tools/build_chipped.py` зі словника `translation/chipped_words.json`.
-- [ ] Екрани налаштувань Xaero, Sodium, ModernFix, Chloride, Drippy Loading Screen (~350 рядків, низький пріоритет).
-- Born in Chaos: 152 «неперекладені» субтитри порожні й в англійській версії — перекладати нічого.
+- [x] Екрани налаштувань Xaero, Sodium, ModernFix, Chloride, Drippy Loading Screen.
+- [x] Дрібні моди: YACL, CrackersLib, Fastload, Smooth Boot, SimpleBackups, Oculus, Inventory Sorter, Traveler's Titles та інші (~180 рядків).
+- Born in Chaos, RoE SFX, Aquamirae: «неперекладені» субтитри порожні й в англійській версії — перекладати нічого.
 - Не перекладаємо: FancyMenu (редактор меню), Vivecraft (VR), CraftPresence (Discord) — гравці їх не бачать.
 
 ### Mine and Slash: інтерфейс

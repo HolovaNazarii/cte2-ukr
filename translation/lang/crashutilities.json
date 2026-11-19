@@ -1,0 +1,7 @@
+{
+ "_comment": "Crash Utilities: клавіші.",
+ "crashutils.keycategory": "Crash Utilities",
+ "crashutils.openscreen": "Відкрити екран Crash Utilities",
+ "crashutils.copycontainer": "Копіювати клас контейнера",
+ "crashutils.slottooltips": "Показувати номери слотів у підказках"
+}

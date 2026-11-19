@@ -1,0 +1,12 @@
+{
+ "_comment": "Inventory Sorter: команди й налаштування.",
+ "inventorysorter.commands.inventorysorter.badtype": "Рядок §c{0}§f — не тип контейнера, пропущено",
+ "inventorysorter.commands.inventorysorter.showlast.message": "Останній відсортований контейнер: §e{0}§f",
+ "inventorysorter.commands.inventorysorter.showlast.nosort": "Ви ще не сортували контейнер. Спробуйте!",
+ "inventorysorter.commands.inventorysorter.showblacklist.message": "Чорний список: §e{0}§f",
+ "inventorysorter.commands.inventorysorter.showblacklist.empty": "Чорний список порожній",
+ "inventorysorter.config.containerblacklist": "Чорний список контейнерів",
+ "inventorysorter.config.slotblacklist": "Чорний список типів слотів",
+ "inventorysorter.config.sortorder": "Порядок сортування",
+ "inventorysorter.config.sortbycountfirst": "Спершу за кількістю"
+}

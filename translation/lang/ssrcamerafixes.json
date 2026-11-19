@@ -1,0 +1,8 @@
+{
+ "_comment": "SSR Camera Fixes: камера з-за плеча.",
+ "key.categories.ssrcamerafixes": "SSR Camera Fixes",
+ "key.ssrcamerafixes.shoulder_cycle": "Змінити плече (праве, ліве, згори)",
+ "ssrcamerafixes.toast.shoulder.right": "Плече: праве",
+ "ssrcamerafixes.toast.shoulder.left": "Плече: ліве",
+ "ssrcamerafixes.toast.shoulder.overhead": "Плече: згори"
+}
