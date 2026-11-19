@@ -1,0 +1,59 @@
+{
+    "name": "Потойбіччя",
+    "icon": "minecraft:sculk",
+    "category": "patchouli:dimensions",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "&n&6&lВимір:&r&r    &n&lПотойбіччя&r\r\n&n&6&lРівень області:&r&r    &n60 - 75 &r&r\r\n&n&6&lРівень люті:&r &n75 - 95&r\r\n&n&6&lВинятки:&r  &nНемає&r\r\n&n&6&lЗавдання:&r  &nАкт V;&r\r\n&n&6&lБрами виміру:&r  &nБрама акту V;\r\n&n&6&lБоси виміру:&r &nНаглядач &r "
+        },
+        {
+            "type": "patchouli:text",
+            "text": " Схоже, портал у цей вимір не охороняли, а різко зачинили. Тут не один Наглядач — портал, здається, веде на батьківщину цих істот. Усі місцеві мешканці схожі на них: покладаються на слух і ехолокацію.$(br) Не шуміть, якщо не готові до бою.$(br) До того ж, схоже, у цьому вимірі є якийсь стародавній храм."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Як потрапити в Потойбіччя",
+            "item": "deeperdarker:heart_of_the_deep",
+            "text": "Щоб потрапити в цей вимір, потрібно роздобути&n&l Серце глибин, що випадає з Наглядача, і запалити ним рамку порталу в Стародавньому місті.&r$(br)Іноді рамка порталу вкрита скалком — її треба розчистити, перш ніж запалювати"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Портал у Потойбіччя",
+            "text": "Цей портал не можна збудувати у виживанні; через показ можна перевірити, чи щось не заважає порталу",
+            "multiblock": {
+                "pattern": [
+                    [
+                        "OOOOOOOOOOOOOOOOOOOOOO"
+                    ],
+                    [
+                        "OSSSSSSSSSSSSSSSSSSSSO"
+                    ],
+                    [
+                        "OSSSSSSSSSSSSSSSSSSSSO"
+                    ],
+                    [
+                        "OSSSSSSSSSSSSSSSSSSSSO"
+                    ],
+                    [
+                        "OSSSSSSSSSSSSSSSSSSSSO"
+                    ],
+                    [
+                        "OSSSSSSSSSSSSSSSSSSSSO"
+                    ],
+                    [
+                        "O0SSSSSSSSSSSSSSSSSSSO"
+                    ],
+                    [
+                        "OOOOOOOOOOOOOOOOOOOOOO"
+                    ]
+                ],
+                "mapping": {
+                    "O": "minecraft:reinforced_deepslate",
+                    "S": "minecraft:air"
+                }
+            }
+        }
+    ]
+}

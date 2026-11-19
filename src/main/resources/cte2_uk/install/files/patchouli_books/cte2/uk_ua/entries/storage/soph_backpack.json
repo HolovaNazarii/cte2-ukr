@@ -1,0 +1,39 @@
+{
+    "name": "Sophisticated Backpacks",
+    "icon": "sophisticatedbackpacks:backpack",
+    "category": "patchouli:storage",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Sophisticated Backpacks",
+            "item": "sophisticatedbackpacks:backpack,sophisticatedbackpacks:iron_backpack,sophisticatedbackpacks:gold_backpack,sophisticatedbackpacks:diamond_backpack,sophisticatedbackpacks:netherite_backpack",
+            "text": "&eSophisticated Backpacks&r дає змогу робити з рюкзаком усе, що забажаєте. Безліч покращень: автоматичне харчування, створення й переплавлення просто в рюкзаку, носіння рідин і досвіду в рідкому вигляді. Повний список покращень дивіться в JEI.\r\n\r\n"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Кожен ярус рюкзака дає більше слотів покращень і  більше місця.\r\n\r\n&eРюкзак: &r27 слотів, 1 слот покращення\r\n&eЗалізний рюкзак:&r 54 слоти, 2 слоти покращень\r\n&eЗолотий рюкзак:&r 81 слот, 3 слоти покращень\r\n&eАлмазний рюкзак:&r 108 слотів, 5 слотів покращень\r\n&eНезеритовий рюкзак:&r 120 слотів, 7 слотів покращень"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Покращення «Стос»",
+            "item": "sophisticatedbackpacks:stack_upgrade_starter_tier,sophisticatedbackpacks:stack_upgrade_tier_1,sophisticatedbackpacks:stack_upgrade_tier_2,sophisticatedbackpacks:stack_upgrade_tier_3,sophisticatedbackpacks:stack_upgrade_tier_4,sophisticatedbackpacks:stack_upgrade_omega_tier",
+            "text": "&eПокращення «Стос»&r надзвичайно важливі. Якщо в рюкзаку кілька таких покращень, їхня дія множиться.\r\n\r\n\r\n"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "\r\nНаприклад:\r\n&e1 покращення «Стос» 4 ярусу&r: 1024\r\n\r\n&e2 покращення «Стос» 4 ярусу:&r 16,384\r\n\r\n&e3 покращення «Стос» 4 ярусу:&r 262,144\r\n\r\nЩоб не утворилася чорна діра, в один рюкзак можна поставити не більше 3 таких покращень."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Розширені покращення",
+            "item": "sophisticatedbackpacks:advanced_pickup_upgrade,sophisticatedbackpacks:advanced_feeding_upgrade,sophisticatedbackpacks:advanced_void_upgrade",
+            "text": "&eРозширені покращення&r дають &eточніше фільтрування&r й більше контролю над роботою покращення: наприклад, розширене підбирання може брати лише предмети з білого списку, не брати з чорного або підбирати лише те, що вже є в рюкзаку.\r\n"
+        },
+        {
+            "type": "patchouli:text",
+            "title": " ",
+            "text": "\r\n  \r\n  \r\n  \r\n  Повний список покращень дивіться в &eJEI&r.\r\n"
+        }
+    ]
+}

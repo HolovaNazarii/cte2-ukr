@@ -1,0 +1,49 @@
+{
+    "name": "Sophisticated Storage",
+    "icon": "sophisticatedstorage:limited_iron_barrel_1",
+    "category": "patchouli:storage",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Sophisticated Storage",
+            "item": "sophisticatedstorage:iron_chest,sophisticatedstorage:gold_chest,sophisticatedstorage:copper_chest,sophisticatedstorage:diamond_chest,sophisticatedstorage:netherite_chest,sophisticatedstorage:chest",
+            "text": "&e&eSophisticated Storage&r — компаньйон Sophisticated Backpacks. Скрині й бочки можна покращувати від залізних і золотих до алмазних і незеритових — з дедалі більшою кількістю слотів для предметів і покращень.\r\nЗвичайні скрині й бочки можна перетворити на їхні аналоги Sophisticated Storage за допомогою покращення базового ярусу..\r\n\r\n"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Кожен ярус сховища дає більше слотів покращень і  більше місця.\r\n&eЗвичайна скриня:&r 27 слотів, 1 слот покращення\r\n\r\n&eЗалізна скриня:&r 54 слоти, 2 слоти покращень\r\n\r\n&eЗолота скриня:&r 81 слот, 3 слоти покращень\r\n\r\n&eАлмазна скриня:&r 108 слотів, 4 слоти покращень\r\n\r\n&eНезеритова скриня: &r120 слотів, 5 слотів покращень"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Покращення «Стос»",
+            "item": "sophisticatedstorage:stack_upgrade_tier_1,sophisticatedstorage:stack_upgrade_tier_2,sophisticatedstorage:crafting_upgrade,sophisticatedstorage:smelting_upgrade",
+            "text": "&eПокращення «Стос»&r надзвичайно важливі. Якщо у сховищі кілька таких покращень, їхня дія множиться.\r\n"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "\r\nНаприклад:\r\n&e1 покращення «Стос» 4 ярусу&r: 1024\r\n\r\n&e2 покращення «Стос» 4 ярусу:&r 16,384\r\n\r\n&e3 покращення «Стос» 4 ярусу:&r 262,144\r\n\r\n&e4 покращення «Стос» 4 ярусу: &r4,194,304\r\n\r\nКожне наступне покращення множить попередній максимум на 16 — і так до 7 слотів."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Обмежені бочки",
+            "item": "sophisticatedstorage:limited_barrel_2,sophisticatedstorage:limited_iron_barrel_2,sophisticatedstorage:limited_barrel_1,sophisticatedstorage:limited_iron_barrel_1",
+            "text": "&eОбмежені бочки&r працюють як шухляди: у них можна зберігати до &eчотирьох видів предметів&r, і вони мають &eнадзвичайно великі стоси&r. Бочки розрізняють за двома ознаками: &eЯрус&r і &eЛіміт предметів&r."
+        },
+        {
+            "type": "patchouli:text",
+            "title": " ",
+            "text": "&eЗвичайна, залізна, золота, алмазна й незеритова&r — це ярус, що визначає розмір стосу.\r\n\r\n&eI, II, III, IIII&r — ліміт предметів, тобто скільки різних предметів (від 1 до 4) можна зберігати. Бочки з більшим лімітом мають менший максимальний стос.\r\n\r\nЦі бочки можна покращувати, як і звичайні сховища.\r\n"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Контролери сховищ",
+            "item": "sophisticatedstorage:controller,sophisticatedstorage:storage_link,sophisticatedstorage:storage_tool,sophisticatedstorage:packing_tape",
+            "text": "&eКонтролер сховища&r дає змогу &eзавантажувати й вивантажувати предмети&r трубами з під'єднаних сховищ. Пріоритет визначається тим, які сховища поставлено останніми. Інтерфейсу поки немає.\r\n&eЗв'язок сховища &rдає змогу &eпід'єднати кілька сховищ&r, що не прилягають до контролера чи до блоків, з'єднаних із ним.."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "&eІнструмент сховища&r дає змогу &eзв'язувати, блокувати й показувати чи ховати замки та кількість предметів&r. Режим перемикається колесом миші з Shift. Щоб зв'язати, натисніть ПКМ по контролеру, а потім ПКМ по сховищах чи зв'язках сховищ.\r\n\r\n&eПакувальна стрічка&r дає змогу &eзапакувати&r сховище й зламати його, щоб підняти як звичайний блок, не розсипавши предметів."
+        }
+    ]
+}

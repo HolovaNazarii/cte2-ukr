@@ -1,0 +1,47 @@
+{
+    "name": "Руни вимірів",
+    "icon": "mmorpg:runes/net",
+    "category": "patchouli:A1lost_pages",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c:/ftbquests open_book 2C9B55C8C05E20E2)&c$(l)---> Відкрити завдання <--- $(/c)$(br)&rУ Craft to Exile 2 трапляються &eруни, прив'язані до вимірів&r: їх можна вставити в спорядження або створити з них потужні рунічні слова.$(br)Усього таких рун &e7&r, і випадають вони лише з босів вимірів, як-от Закликача чи Дракона Края. \r\n"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:mmorpg:runes,mmorpg:runes/owd",
+            "text": "&eРуна Owd&r $(2br) Відлюдник-безоднохід (&b5%&r),$(br) Закликач (&b10%&r),$(br) Кригопащ (&b15%&r),$(br) Смерть (&b10%&r)$(br)"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:mmorpg:runes,mmorpg:runes/net",
+            "text": "&&eРуна Net&r $(2br) Викривлений комар (&b10%&r),$(br) Пожежа (&b5%&r),$(br) Мати лавових кальмарів (&b5%&r),$(br) Візер (&b10%&r),$(br) Жахливий гаст (&b15%&r),$(br) Хранитель Незеру (&b15%&r)"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:mmorpg:runes,mmorpg:runes/und",
+            "text": "&eРуна Und&r $(2br) Кований вартовий (&b10%&r),$(br) Умвуті (&b10%&r),$(br) Тонгбі, Скульптор (&b10%&r),$(br) Забутий страж (&b10%&r),$(br) Вугор (&b15%&r),$(br) Матір лабіринту (&b50%&r),$(br) Привид капітана Корнелії (&b10%&r)$(br)"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:mmorpg:runes,mmorpg:runes/bri",
+            "text": "&eРуна Bri&r $(2br) Прикликач (&b10%&r),$(br) Зоряний трощитель (&b25%&r)$(br)"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:mmorpg:runes,mmorpg:runes/daw",
+            "text": "&eРуна Daw&r $(2br) Алхімік (&b10%&r),$(br) Арахнарх (&b25%&r)$(br)"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:mmorpg:runes,mmorpg:runes/end",
+            "text": "&eРуна End&r $(2br) Дракон Края (&b7.5%&r),$(br) Хробак порожнечі (&b5%&r),$(br)Укривач (&b15%&r)"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:mmorpg:runes,mmorpg:runes/sid",
+            "text": "&eРуна Sid&r $(2br) Наглядач (&b10%&r), Нічний ліч (&b15%&r),$(br) Незерська рукавиця (&b15%&r),$(br) Квітка порожнечі (&b15%&r),$(br) Обсидиліт (&b15%&r)$(br)"
+        }
+    ]
+}

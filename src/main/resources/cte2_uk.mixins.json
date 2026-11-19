@@ -16,7 +16,9 @@
     "mns.WikiFilterLabelMixin",
     "mns.WikiSearchLabelMixin",
     "other.DayCounterMixin",
-    "other.MineMealsTooltipMixin"
+    "other.MineMealsTooltipMixin",
+    "vanilla.ClientTextTooltipAccessor",
+    "vanilla.TooltipOriginalNameMixin"
   ],
   "injectors": {
     "defaultRequire": 0

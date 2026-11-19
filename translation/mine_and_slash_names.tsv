@@ -1,0 +1,322 @@
+# Назви вмінь, ефектів і класів Mine and Slash. Формат: англійська<TAB>українська.
+# Застосовується до ключів mmorpg.spell.*, mmorpg.effect.*, mmorpg.talent.*, mmorpg.asc_class.*, mmorpg.mercenary.*
+# з англійським значенням (tools/apply_names.py). Порожня українська колонка = лишити англійською.
+# Англійський оригінал гравець бачить у підказці, якщо затисне Shift.
+Abyssal Aura	Аура безодні
+Acid Blast	Кислотний вибух
+Acid Cloud	Кислотна хмара
+Act I Gateway	Брама акту I
+Act II Gateway	Брама акту II
+Act III Gateway	Брама акту III
+Act IV Gateway	Брама акту IV
+Act V Gateway	Брама акту V
+Anti-Gravity Smash	Антигравітаційний удар
+Arachnid Inoculation	Павуче щеплення
+Arcanist	Арканіст
+Armageddon	Армагеддон
+Arrow Barrage	Шквал стріл
+Arrow Storm	Буря стріл
+Arrow Totem	Тотем стріл
+Ascendant	Вознесений
+Assassin	Асасин
+Astral Totem	Астральний тотем
+Asura	Асура
+Avalanche Vault	Лавинний стрибок
+Axe Throw	Кидок сокири
+Backflip	Сальто назад
+Banishing Blade	Клинок вигнання
+Banishment Strikes	Удари вигнання
+Banner of the Blizzard	Прапор заметілі
+Banner of the Frozen Guard	Прапор крижаної варти
+Banner of the Hunt	Прапор полювання
+Banner of the Piercing Gale	Прапор пронизливого вітру
+Battery Fusillade	Артилерійський залп
+Battle Orders	Бойові накази
+Battlemage	Бойовий маг
+Black Hole	Чорна діра
+Blade of Desecrated Hallows	Клинок осквернених святинь
+Blasphemous Ritual	Блюзнірський ритуал
+Blessed Aim	Благословенне прицілювання
+Blessed Hammer	Благословенний молот
+Blizzard	Заметіль
+Blood Boil	Кипіння крові
+Blood Explosion	Кривавий вибух
+Blood Harvest	Криваві жнива
+Bola Throw	Кидок боласа
+Bolt	Снаряд
+Boss Spell - Crowd Control Resistance	Вміння боса: опір контролю
+Boss Spell - Summon Skeleton	Вміння боса: прикликання скелета
+Boss Spell - Summon Zombies	Вміння боса: прикликання зомбі
+Brawler	Забіяка
+Cataclysm	Катаклізм
+Chain Lightning	Ланцюгова блискавка
+Chain Lightning Totem	Тотем ланцюгової блискавки
+Champion	Чемпіон
+Chaos ID
+Chaos Totem	Тотем хаосу
+Charge	Натиск
+Charged Bolt	Заряджений снаряд
+Charged Bomb	Заряджена бомба
+Chieftain	Вождь
+Chilled Reflexes	Крижані рефлекси
+Chilling Field	Морозне поле
+Chilling Touch	Морозний дотик
+Chronobreak	Хронорозрив
+Chronomancer	Хрономант
+Cinder	Жарина
+Circle of Healing	Коло зцілення
+Clamor, Crash, Clatter	Гамір, гуркіт, брязкіт
+Cloak of Hidden Blades	Плащ прихованих клинків
+Close Nova	Ближня нова
+Cold ID
+Cold Snap	Раптовий мороз
+Comeuppance	Відплата
+Concentration	Зосередженість
+Conduction	Провідність
+Contagion	Зараза
+Contamination	Зараження
+Corporeal Respite	Тілесний перепочинок
+Corrupted Blood	Зіпсована кров
+Craft Arrows	Виготовлення стріл
+Crusader	Хрестоносець
+Cryogenic Rupture	Кріогенний розрив
+Cryolancer	Кріоланцер
+Curse of Agony	Прокляття агонії
+Curse of Damnation	Прокляття осуду
+Curse of Despair	Прокляття відчаю
+Curse of Weakness	Прокляття слабкості
+Cursed Axe Throw	Проклятий кидок сокири
+Cursed Charged Bomb	Проклята заряджена бомба
+Cursed Fist of Judgment	Проклятий кулак суду
+Cursed Meteor	Проклятий метеор
+Cursed Power Chord	Проклятий силовий акорд
+Cursed Quake	Проклятий землетрус
+Cursed Raging Dragon	Проклятий лютий дракон
+Cursed Ricochet Shot	Проклятий рикошетний постріл
+Cursed Summon Zombie	Прокляте прикликання зомбі
+Cursed Timewinder	Проклятий часокрут
+Cursed Wide Shot	Проклятий широкий постріл
+Cursed Zombie Basic	Проклята атака зомбі
+Cyclone	Циклон
+Dark Pact	Темний пакт
+Dash	Ривок
+Death Lich	Ліч смерті
+Death Mark	Мітка смерті
+Death Trap	Смертельна пастка
+Debilitating Blow	Виснажливий удар
+Decay	Розпад
+Deep Sea Gateway	Брама морських глибин
+Defender Stance	Стійка захисника
+Defiance	Непокора
+Destined Death	Неминуча смерть
+Devour	Пожирання
+Dire State	Відчайдушний стан
+Discharge	Розряд
+Dodge	Ухилення
+Double Strike	Подвійний удар
+Drain	Виснаження
+Eighth Gate	Восьма брама
+Elemental Assault	Стихійний натиск
+Elemental Burst	Стихійний вибух
+Elementalist	Стихійник
+Encore of Life	Життя на біс
+Ensnaring Melody	Мелодія пут
+Entangling Seed	Насінина пут
+Execute	Страта
+Explode Minions	Підрив прислужників
+Explosive Arrow	Вибухова стріла
+Fan of Knives	Віяло ножів
+Fanaticism	Фанатизм
+Fighter	Боєць
+Fire Ball	Вогняна куля
+Fire Golem Attack	Атака вогняного голема
+Fire ID
+Fire Nova	Вогняна нова
+Fire Trap	Вогняна пастка
+Fire Wall	Вогняна стіна
+Fist of Judgment	Кулак суду
+Flame Splash Potion	Вибухове зілля полум'я
+Flame Strike	Полум'яний удар
+Flamethrower Totem	Тотем-вогнемет
+Flicker Refresh	Мерехтливе оновлення
+Flicker Strike	Мерехтливий удар
+Flowing River Rush	Ривок річкової течії
+Focus	Фокус
+Forbidden Rite	Заборонений обряд
+Frost Golem Attack	Атака крижаного голема
+Frost Nova	Крижана нова
+Frost Orbs	Крижані сфери
+Frost Totem	Крижаний тотем
+Frost Trap	Крижана пастка
+Frostbite Thrust	Обморожувальний випад
+Frozen Orb	Замерзла сфера
+Fury	Лють
+Fusion	Злиття
+Galvanic Blade	Гальванічний клинок
+Garden of Thorns	Сад терну
+Glacial Condemnation	Льодовиковий вирок
+Glacial Dash	Льодовиковий ривок
+Glacial Mend	Льодовикове зцілення
+Glacial Phoenix	Льодовиковий фенікс
+Gladiator	Гладіатор
+Goading Strike	Провокаційний удар
+Golem Pet Attack	Атака голема
+Gong Strike	Удар гонга
+Grand Cross	Великий хрест
+Grapple	Захоплення
+Guardian	Страж
+Hailstorm	Град
+Harvest	Жнива
+Healing Aria	Цілюща арія
+Heart of Ice	Крижане серце
+Hoarfrost Armor	Обладунок інею
+Holy Fire	Святий вогонь
+Holy Immolation	Святе спалення
+Holy Shield Throw	Кидок святого щита
+Holy Shock	Святий шок
+Hop	Підскок
+Hunter	Мисливець
+Hunter's Focus	Зосередженість мисливця
+Hunter's Mark	Мітка мисливця
+Hunter's Potion	Зілля мисливця
+Hymn of Perseverance	Гімн стійкості
+Hymn of Valor	Гімн доблесті
+Hymn of Vigor	Гімн бадьорості
+Ice Comet	Крижана комета
+Ice Shard	Крижаний уламок
+Ice-Tipped Blade	Клинок із крижаним вістрям
+Ignite Explosion	Вибух підпалу
+Immolate	Спопеління
+Incinerating Weapon Toss	Спопеляючий кидок зброї
+Inferno	Пекло
+Inspiration	Натхнення
+Jester	Блазень
+Juggernaut	Джаґернаут
+Kick	Копняк
+Kinetic Blast	Кінетичний вибух
+Lightning Bolt	Удар блискавки
+Lightning Golem Attack	Атака голема блискавки
+Lightning ID
+Lightning Spear	Спис блискавки
+Lightning Totem	Тотем блискавки
+Lightning Warp	Блискавичне перенесення
+MS Regen
+Mage Armor	Обладунок мага
+Mage Circle	Коло мага
+Magic Missile	Чарівна стріла
+Magma Orb	Магмова сфера
+Magma Totem	Магмовий тотем
+Martyrdom	Мучеництво
+Meditate	Медитування
+Meditation	Медитація
+Mending Ostinato	Цілюще остинато
+Meteor	Метеор
+Meteor Arrow	Стріла-метеор
+Minion Explosion	Вибух прислужника
+Minstrel	Менестрель
+Mirror Image	Дзеркальне відображення
+Nature's Balm	Бальзам природи
+Necromancer	Некромант
+Omnislash	Омніудар
+Parallel Convergence	Паралельне сходження
+Passive Block	Пасивний блок
+Persecutory Thrust	Переслідувальний випад
+Phase Dive	Фазове пірнання
+Piercing Dagger Throw	Пронизливий кидок кинджала
+Piercing Strike	Пронизливий удар
+Plague Aura	Аура чуми
+Poison Ball	Отруйна куля
+Poison Trap	Отруйна пастка
+Power Chord	Силовий акорд
+Power Surge	Сплеск сили
+Prayer	Молитва
+Predator	Хижак
+Prestissimo	Престисимо
+Primordialist	Первісник
+Profane Explosion	Нечестивий вибух
+Protection	Захист
+Pulsar Singularity Trap	Пастка-сингулярність пульсара
+Puncture	Прокол
+Putrid Breath	Гнилий подих
+Putrid Splash Potion	Вибухове гниле зілля
+Quake	Землетрус
+Quickdraw	Швидкий постріл
+Raging Dragon	Лютий дракон
+Raider	Нальотник
+Rallying March	Згуртувальний марш
+Rallying Sweep	Згуртувальний розмах
+Reaper Form	Подоба жнеця
+Reckoner's Flail	Ціп розплати
+Recoil Shot	Постріл із віддачею
+Redemption	Спокута
+Refresh	Оновлення
+Rejuvenating Totem	Омолоджувальний тотем
+Rejuvenation	Омолодження
+Resonance	Резонанс
+Return Summons	Повернення прикликаних
+Revenant Slam	Удар повсталого
+Ricochet Shot	Рикошетний постріл
+Rime Reaver	Інейний спустошувач
+Rip Apart	Розтерзання
+Ritardando	Ритардандо
+Rogue	Пройдисвіт
+Safeguard	Оберіг
+Salvation	Порятунок
+Sanguimancer	Кровомант
+Sanguine Aura	Кривава аура
+Shadow Step	Тіньовий крок
+Shaman	Шаман
+Sharpen	Заточування
+Shred	Шматування
+Siphon	Висмоктування
+Skeleton Attack	Атака скелета
+Slice	Розріз
+Smoke Bomb	Димова бомба
+Snipe	Снайперський постріл
+Soul Burn	Опік душі
+Soul Wound	Рана душі
+Spider Attack	Атака павука
+Spirit Offensive	Наступ духів
+Splinter	Скалка
+Stance	Стійка
+Steam Cloud	Хмара пари
+Storming Tiger	Тигр-буревій
+Summon Fire Golem	Прикликання вогняного голема
+Summon Frost Golem	Прикликання крижаного голема
+Summon Lightning Golem	Прикликання голема блискавки
+Summon Skeletons	Прикликання скелетів
+Summon Spider	Прикликання павука
+Summon Spirit Wolf	Прикликання вовка-духа
+Summon Wisp	Прикликання вогника
+Summon Wolf	Прикликання вовка
+Summon Wraith's Grave	Прикликання могили привида
+Summon Zombie	Прикликання зомбі
+Sweeping Blow	Розмашистий удар
+Tailwind Sweep	Розмах попутного вітру
+Target	Ціль
+Taunt	Провокація
+Test command
+Thorn Bush	Терновий кущ
+Tidal Strike	Удар припливу
+Time Dilation	Уповільнення часу
+Timewinder	Часокрут
+Trickster	Ошуканець
+Triple Blitz	Потрійний бліц
+Turbo	Турбо
+Undying Will	Безсмертна воля
+Vampiric Blood	Вампірська кров
+Venom	Отрута
+Venom Splash Potion	Вибухове зілля отрути
+Vortex Skewer	Вихрове протикання
+Warlock	Чорнокнижник
+Whirlwind	Вихор
+Whiteout Sovereign	Володар білої мли
+Whiteout Sovereign (Storm)	Володар білої мли (шторм)
+Wind Slasher	Вітряний різник
+Winter's Grasp	Хватка зими
+Wolf Attack	Атака вовка
+Wyvern's Touch	Дотик виверни
+Zap	Удар струмом
+Zen	Дзен
+Zombie Attack	Атака зомбі
+self damage Ball	Куля самоушкодження
